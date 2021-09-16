@@ -1,7 +1,7 @@
 #include <stdio.h>
 
-int main(void) /* ¿¬½À¹®Á¦ 02-01*/
+int main(void) /* ì—°ìŠµë¬¸ì œ 02-01*/
 {
-	printf("È«±æµ¿ \nÈ« ±æ µ¿ \nÈ«  ±æ  µ¿ \n");
+	printf("í™ê¸¸ë™ \ní™ ê¸¸ ë™ \ní™  ê¸¸  ë™ \n");
 	return 0:
 }
