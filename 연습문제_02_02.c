@@ -1,9 +1,9 @@
 #include <stdio.h>
 
-int main(void) /* ¿¬½À¹®Á¦ 02-01*/
+int main(void) /* ì—°ìŠµë¬¸ì œ 02-01*/
 {
-	printf("Á¦ ÀÌ¸§Àº ÀÌ´Ù¼ÖÀÔ´Ï´Ù \n");
-	printf("ÀúÈñ ÁýÀº °æ±âµµ ¼º³²½Ã Áß¿ø±¸ ¹Ú¼®·Î41¹ø±æ 36-3 1ÃþÀÔ´Ï´Ù \n");
-	printf("Á¦ ÀüÈ­¹øÈ£´Â 010-7558-0214 ÀÔ´Ï´Ù \n");
+	printf("ì œ ì´ë¦„ì€ ì´ë‹¤ì†”ìž…ë‹ˆë‹¤ \n");
+	printf("ì €í¬ ì§‘ì€ ëŒ€í•œë¯¼êµ­ìž…ë‹ˆë‹¤ \n");
+	printf("ì œ ì „í™”ë²ˆí˜¸ëŠ” 010-1234-5678 ìž…ë‹ˆë‹¤ \n");
 	return 0;
 }
